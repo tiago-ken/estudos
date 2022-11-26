@@ -5,5 +5,5 @@
 Estudos para web
 
 ```
-Estudos font-end 
+node app.js
 ```
